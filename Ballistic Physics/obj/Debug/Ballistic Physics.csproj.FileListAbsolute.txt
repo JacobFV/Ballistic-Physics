@@ -1,0 +1,16 @@
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Debug\Ballistic Physics.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Debug\Ballistic Physics.exe
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Debug\Ballistic Physics.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic_Physics.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.exe
+c:\users\jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.pdb
+C:\Users\Jacob\documents\visual studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic_Physics.Settings.resources
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.csprojAssemblyReference.cache
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic_Physics.Settings.resources
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic_Physics.Properties.Resources.resources
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.csproj.GenerateResource.cache
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.exe
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Debug\Ballistic Physics.pdb

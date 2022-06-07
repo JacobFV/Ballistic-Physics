@@ -1,0 +1,20 @@
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Release\Ballistic Physics.exe.config
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Release\Ballistic Physics.exe
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Release\Ballistic Physics.pdb
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic_Physics.Settings.resources
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic_Physics.Properties.Resources.resources
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.csproj.GenerateResource.Cache
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.exe
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.pdb
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Release\Ballistic Physics.exe.manifest
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\bin\Release\Ballistic Physics.application
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.exe.manifest
+C:\Users\Jacob\Documents\Visual Studio 2013\Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.application
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.csprojAssemblyReference.cache
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic_Physics.Settings.resources
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic_Physics.Properties.Resources.resources
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.csproj.GenerateResource.cache
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.exe
+C:\Users\Jacob\Documents\Old VS Projects\Ballistic Physics\Ballistic Physics\obj\Release\Ballistic Physics.pdb
